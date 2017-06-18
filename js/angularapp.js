@@ -34,7 +34,7 @@
                      {image: "https://depilacaoaraxa.github.io/images/slider2.jpg", title: "Conserto de roupas"},
                      {image: "https://depilacaoaraxa.github.io/images/slider3.jpg", title: "Customização"}];
 
-    $scope.sections = [{icon: "flash_on", title: "Entrega rápida", body: "Trabalhamos para lhe atender no menor tempo possível."},
+    $scope.sections = [{icon: "flash_on", title: "Processo rápido", body: "Depilação a cera com boa técnica e anos de experiência, proporciona uma depilação rápida, suave e duradoura"},
                      {icon: "group", title: "Atenção com as demandas dos clientes", body: "Buscamos que o cliente se sinta realizado em sua individualidade e gosto."},
                      {icon: "settings", title: "Precisão", body: "Buscamos o melhor acabamento e a melhor qualidade."}];
     $('.slider').slider();
